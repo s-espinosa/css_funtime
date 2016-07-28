@@ -29,6 +29,7 @@
 .container:hover .c {
   background-color: orange;
   transform: scaleX(0.5);
+  transform: rotate(45deg);
   transition-delay: 3s;
 }
 
